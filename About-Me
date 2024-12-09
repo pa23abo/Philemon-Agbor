@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Your Name</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <h3>Year of Study: 2nd Year</h3>
+        <h3>Degree: BSc Computer Science</h3>
+        <h3>University of Hertfordshire, Hatfield,Uk.
+    </header>
+
+    <section class="about-me">
+        <h2>About Me</h2>
+        <p>Hi! I'm [Your Name], a passionate Computer Science student currently in my second year of study at [University Name]. I have a strong interest in software development, data analysis, and machine learning. This site showcases my technical interests, portfolio, and projects I've worked on.</p>
+        <img src="placeholder-image.jpg" alt="Your Image" class="profile-image">
+    </section>
+
+    <footer>
+        <p>Contact: <a href="mailto:your-email@example.com">agborphilemon8@gmail.com</a></p>
+    </footer>
+</body>
+</html>
